@@ -10,7 +10,7 @@ const Cards = props => {
         players[j] = temp;
     }
     return (
-        props.players.map((player, index) => {
+        props.players.map(player => {
             return (
                 <img key={player.id} src={player.image} onClick={props.handleClick} id={player.id} alt="football"></img>
             )
