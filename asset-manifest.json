@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/clicky-game-fuad-guluzade/static/css/main.a2083c18.chunk.css",
+    "main.js": "/clicky-game-fuad-guluzade/static/js/main.1e76d4cb.chunk.js",
+    "main.js.map": "/clicky-game-fuad-guluzade/static/js/main.1e76d4cb.chunk.js.map",
+    "runtime-main.js": "/clicky-game-fuad-guluzade/static/js/runtime-main.b752b1d9.js",
+    "runtime-main.js.map": "/clicky-game-fuad-guluzade/static/js/runtime-main.b752b1d9.js.map",
+    "static/js/2.6057d209.chunk.js": "/clicky-game-fuad-guluzade/static/js/2.6057d209.chunk.js",
+    "static/js/2.6057d209.chunk.js.map": "/clicky-game-fuad-guluzade/static/js/2.6057d209.chunk.js.map",
+    "index.html": "/clicky-game-fuad-guluzade/index.html",
+    "precache-manifest.c67180e5b63f0bd9394b6aa24f587c63.js": "/clicky-game-fuad-guluzade/precache-manifest.c67180e5b63f0bd9394b6aa24f587c63.js",
+    "service-worker.js": "/clicky-game-fuad-guluzade/service-worker.js",
+    "static/css/main.a2083c18.chunk.css.map": "/clicky-game-fuad-guluzade/static/css/main.a2083c18.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b752b1d9.js",
+    "static/js/2.6057d209.chunk.js",
+    "static/css/main.a2083c18.chunk.css",
+    "static/js/main.1e76d4cb.chunk.js"
+  ]
+}
