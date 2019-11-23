@@ -15,4 +15,5 @@ Webpage of project: https://fuadguluzade.github.io/clicky-game-fuad-guluzade/
 
 ## Built With
 
-* [React] - The web framework used
+- React
+- Css
